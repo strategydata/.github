@@ -12,8 +12,12 @@ Thanks to the work of thousands of researchers around the world who dedicate the
 
 We believe that a key reason why we fail to achieve the progress we are capable of is that we do not make enough use of this existing research and data: the important knowledge is often stored in inaccessible databases, locked away behind paywalls and buried under jargon in academic papers.
 
-The goal of our work is to make the knowledge on the big problems accessible and understandable. As we say on our homepage, Strategy Data's mission is to publish the “research and data to make progress against the ours largest problems”.
+The goal of our work is to make the knowledge on the big problems accessible and understandable. As we say on our homepage, Strategy Data's mission is to publish the “research and data to make progress against the ours largest problems”. Another, we foucus on the public. we are happy to provides the resources and materials to data journalism and people. 
 
+
+### 🦦 Contributing to the ecosystem
+
+We contribute to the tools 🔧 we rely on to build and run GitHub, while also maintaining 🧙‍♂️ our own open source projects. if you have any ideas and  
 
 
 <!-- ### 🍿 An interconnected community
@@ -21,9 +25,6 @@ The goal of our work is to make the knowledge on the big problems accessible and
 The open source community is the 💗 heart of GitHub and fundamental to how we build software today. See for yourself:
 
 
-### 🦦 Contributing to the ecosystem
-
-We contribute to the tools 🔧 we rely on to build and run GitHub, while also maintaining 🧙‍♂️ our own open source projects like:
 
 - 
 
